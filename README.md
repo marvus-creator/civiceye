@@ -27,7 +27,8 @@ Cities grow fast, and keeping track of infrastructure isn't easy. **CivicEye** b
 * **🌍 Bilingual UX:** Built-in instant translation toggles the entire platform between **English** and **Kinyarwanda** for true local accessibility.
 * **🏛️ Mayor's Operations Center:** A secure admin backend where city officials can review photographic evidence, track emails, and dispatch "Resolved" status updates.
 
-*(📸 DROP A SCREENSHOT OF YOUR ADMIN DASHBOARD HERE)*
+*(📸 <img width="1356" height="270" alt="civic eye admin" src="https://github.com/user-attachments/assets/ca1e2dcb-2d50-482a-b146-4ba8ed0e0c22" />
+)*
 
 ## 🛠️ The Tech Stack
 
