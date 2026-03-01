@@ -16,7 +16,8 @@
 ## 🚀 The Vision
 Cities grow fast, and keeping track of infrastructure isn't easy. **CivicEye** bridges the gap between citizens and the City Council. If you see a pothole, a broken streetlight, or a water leak, you pin it on the map. The city sees it, prioritizes it, and fixes it. Simple.
 
-*(📸 DROP A SCREENSHOT OF YOUR MAP HERE)*
+*(📸 <img width="1365" height="635" alt="CIVIC EYE MAP" src="https://github.com/user-attachments/assets/a4decf83-b2a7-4807-be26-89466f627abf" />
+)*
 
 ## ✨ The "Wow" Features
 
